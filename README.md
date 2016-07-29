@@ -2,13 +2,16 @@
 Arduino Cable Tester based on Mega2560
 
 > Project development collection can be found here on Google Plus:
-https://plus.google.com/collection/YVyBSB
+
+> https://plus.google.com/collection/YVyBSB
 
 > Video of tester in action can be seen here:
-https://plus.google.com/102612254593917101378/posts/ViVuKPyG9Dn
 
-> Assembly guide with pictures for version (v2.0-xxx) with Rp testing addon can be found here: <<
-https://plus.google.com/102612254593917101378/posts/M9emESx9iTr
+> https://plus.google.com/102612254593917101378/posts/ViVuKPyG9Dn
+
+> Assembly guide with pictures for version (v2.0-xxx) with Rp testing addon can be found here:
+
+> https://plus.google.com/102612254593917101378/posts/M9emESx9iTr
 
 This is an automated 52x52 way cable conductivity tester. It is fully modular and allows customizable  breakout board definitions and pin subtypes. It also has enhanced functionality to do Rp/Ra testing + Live monitoring mode for USB-C testing and cable/charger validation.
 
