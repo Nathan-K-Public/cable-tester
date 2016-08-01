@@ -474,7 +474,7 @@ Serial.println("--------START---------");
 
 //==========WARNING===============
     Serial.println();
-     Serial.println(F("WARNING: DO NOT RUN WHEN PLUGGED INTO Vbus HOT CHARGER!!!! It may result in damage. Do you acknowledge?"));
+     Serial.println(F("WARNING: DO NOT RUN WHEN PLUGGED INTO Vbus HOT CHARGER! It may result in damage. Do you acknowledge?"));
      Serial.println("               Press any key to begin test");
      Serial.println();
           
