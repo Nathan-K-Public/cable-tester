@@ -25,7 +25,7 @@ ACC1_SLAVE_PIN  - this is "CC1-BankA" you tied to the resistor above.
 ACC2_SLAVE_PIN  - this is "CC2-BankA" you ties to the resistor above.
 */
 
-  static const int pinDelay=0;
+  static const int pinDelay=2;
   static const int shiftDelay=0;
   static const int truncate=1;
   static const int vbusDelayOn=275*2;
