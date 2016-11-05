@@ -320,6 +320,7 @@ for i,field in enumerate(fields):
                 vdo['Passive Cable'][5].key=vdoCablekey5active
                 vdo['Passive Cable'][6].key=vdoCablekey6active
                 vdo['Passive Cable'][13].key=vdoCablekey13active
+                vdo['Passive Cable'][13].name='SOP" Controller Present'
 
                 vdo1=collections.OrderedDict(('Active Cable' if k == 'Passive Cable' else k, v) for k, v in vdo.items())
                 vdo=vdo1
